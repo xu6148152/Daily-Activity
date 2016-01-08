@@ -3,9 +3,9 @@ Record my daily activity
 
 2015 
 	  
-	  Feb Baseball2.4 Golf2.4
+	  Feb Baseball2.4(refactor(mvp) and some feature(what? forget...) Golf2.4 the same to baseball
 
-	  March Tennis2.0, 2.1(offline, architech)
+	  March - may Tennis2.0, 2.1(offline, bluetooth, architech)
 	  
 	  Spring Golf2.5 Coach.
 	  
@@ -18,11 +18,13 @@ Record my daily activity
 	  July Smart Basketball demo
 	       ble and custom
 	  
-	  Sep Eagle3.0 TrainingContent.
+	  Sep  golf2.5 coach
 	  
-	  Oct Eagle3.0 History.(include all data sync,show)
+	  oct Eagle3.0 TrainingContent.
 	  
+	  Nov - Dece Eagle3.0 History.(include all data sync,show)
 	  
+	  integrate platform
 
 2016	  
 
