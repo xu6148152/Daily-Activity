@@ -37,5 +37,5 @@ Record my daily activity
 2016	  
 
 	  Jan ZeppTeam.(React Native) (some component and native component)
-	  
+	  Feb Eagle ShareTemplate PermissionControl Mixpanel (Sync not uploaded data)
 
