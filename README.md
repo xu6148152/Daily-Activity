@@ -39,3 +39,4 @@ Record my daily activity
 	  Jan ZeppTeam.(React Native) (some component and native component)
 	  Feb Eagle ShareTemplate PermissionControl Mixpanel (Sync not uploaded data)
 	  Mar LockScreen ShareToWechat fix bugs
+	  Apr Standz user guide and fix bugs. hack permission prior marshallow.FFMPEG,OPENCV,TENSOR-FLOW,MACHINE-LEARNING.
