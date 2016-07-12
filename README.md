@@ -41,3 +41,4 @@ Record my daily activity
 	  Mar LockScreen ShareToWechat fix bugs
 	  Apr Standz1.1 user guide and fix bugs. hack permission prior marshallow.FFMPEG,OPENCV,TENSOR-FLOW,MACHINE-LEARNING.
 	  May Standz1.2 Capturetor delete video, filter, OPENGL
+	  June~july Soccer1.0 framework history add device profile(userprofile teamprofile) leaderboard
