@@ -42,4 +42,4 @@ Record my daily activity
 	  Apr Standz1.1 user guide and fix bugs. hack permission prior marshallow.FFMPEG,OPENCV,TENSOR-FLOW,MACHINE-LEARNING.
 	  May Standz1.2 Capturetor delete video, filter, OPENGL
 	  June~july Soccer1.0 framework history add device profile(userprofile teamprofile) leaderboard
-	  Aug beikantai feed, user guide for capture, recommend mobile team, verify phone number for wechat login
+	  Aug beikantai feed, user guide for capture, recommend mobile team, verify phone number for wechat login, create new team, new game, whitelist game
