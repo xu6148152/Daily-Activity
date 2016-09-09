@@ -37,9 +37,17 @@ Record my daily activity
 2016	  
 
 	  Jan ZeppTeam.(React Native) (some component and native component)
+	  
 	  Feb Eagle ShareTemplate PermissionControl Mixpanel (Sync not uploaded data)
+	  
 	  Mar LockScreen ShareToWechat fix bugs
+	  
 	  Apr Standz1.1 user guide and fix bugs. hack permission prior marshallow.FFMPEG,OPENCV,TENSOR-FLOW,MACHINE-LEARNING.
+	  
 	  May Standz1.2 Capturetor delete video, filter, OPENGL
+	  
 	  June~july Soccer1.0 framework history add device profile(userprofile teamprofile) leaderboard
+	  
 	  Aug beikantai feed, user guide for capture, recommend mobile team, verify phone number for wechat login, create new team, new game, whitelist game
+
+	  Sep Standz collection	
