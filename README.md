@@ -51,3 +51,5 @@ Record my daily activity
 	  Aug beikantai feed, user guide for capture, recommend mobile team, verify phone number for wechat login, create new team, new game, whitelist game
 
 	  Sep Standz collection	
+	  
+	  Sep-Oct Badminton UserSystem PrepareGame VideoPlay collection
