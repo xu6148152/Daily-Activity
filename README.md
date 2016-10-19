@@ -52,4 +52,4 @@ Record my daily activity
 
 	  Sep Standz collection	
 	  
-	  Sep-Oct Badminton UserSystem PrepareGame VideoPlay collection
+	  Sep-Oct Badminton UserSystem PrepareGame VideoPlay collection onBoarding SNS
