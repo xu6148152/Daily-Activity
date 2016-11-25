@@ -53,3 +53,5 @@ Record my daily activity
 	  Sep Standz collection	
 	  
 	  Sep-Nov Badminton UserSystem PrepareGame VideoPlay collection onBoarding SNS, reupload
+	  
+	  Nov Soccer1.2 practice mode
