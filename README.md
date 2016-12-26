@@ -55,3 +55,5 @@ Record my daily activity
 	  Sep-Nov Badminton UserSystem PrepareGame VideoPlay collection onBoarding SNS, reupload
 	  
 	  Nov Soccer1.2 practice mode
+	  
+	  Dec Baseball3.3 local video share
