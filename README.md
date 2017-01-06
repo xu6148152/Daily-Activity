@@ -73,5 +73,5 @@
   
 ### 2017
 * Jan
-  * Java Concurrency
+  * Java Concurrency, JVM
 	  
