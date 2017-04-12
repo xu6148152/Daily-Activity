@@ -2,7 +2,7 @@
 ## Record my daily activity  
 
 ### 2012~2013 
-* other company some other project.
+* other company some other project.  
      
 ### 2014 
 * Golf baseball 2.0 - 2.3
