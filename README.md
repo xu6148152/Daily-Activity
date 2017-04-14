@@ -10,7 +10,7 @@
 ### 2015 
 * Feb 
   * Baseball2.4(refactor(mvp) and some feature(what? forget...) Golf2.4 the same to baseball
-  * March - may Tennis2.0, 2.1(offline, bluetooth, architech)
+  * March - may Tennis2.0, 2.1(offline, bluetooth, architech)  
   
 * Spring 
   * Golf2.5 Coach.
