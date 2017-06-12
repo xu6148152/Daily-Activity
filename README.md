@@ -96,5 +96,5 @@
 * Jun
   * Financial Demo
   * all in one(一体机)
-  * Intelligent village  
-  * Python-deeper  
+  * Intelligent village
+  * Python-deeper  
