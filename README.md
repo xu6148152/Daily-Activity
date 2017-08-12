@@ -93,8 +93,19 @@
 * May
   * GrabNow
   * Python-deeper
+  
 * Jun
   * Financial Demo
   * all in one(一体机)
   * Intelligent village
   * Python-deeper  
+* July
+  * FaceAttribute sdk
+  * FaceTrack sdk
+  * liveness&ocr sdk
+  * Upgrade finance demo to new liveness and ocr
+* Aug
+  * AD Machine
+  * TaiHe manager app
+  * FaceAttribute tidy doc
+
