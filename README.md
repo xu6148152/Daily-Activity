@@ -76,7 +76,6 @@
   * Java Concurrency, JVM
   
 * Feb
-  * move grab
   * GrabShuttle
   * Grab-Street-Hail
 
